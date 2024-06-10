@@ -6,3 +6,4 @@ kasmweb/nginx:1.25.3
 zishuo/embyserver
 linuxserver/jackett
 allanpk716/chinesesubfinder
+iyuucn/iyuuplus-dev
