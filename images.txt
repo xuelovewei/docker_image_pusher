@@ -7,3 +7,6 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 iyuucn/iyuuplus-dev
 lovechen/embyserver
+jellyfin/jellfin
+nyanmisaka/jellyfin
+linuxserver/jellyfin
