@@ -8,3 +8,7 @@ allanpk716/chinesesubfinder
 iyuucn/iyuuplus-dev
 jellyfin/jellyfin
 lovechen/embyserver
+emby/embyserver
+amilys/embyserver
+zishuo/embyserver
+xinjiawei1/emby_unlockd
