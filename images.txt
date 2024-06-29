@@ -12,3 +12,5 @@ emby/embyserver
 amilys/embyserver
 zishuo/embyserver
 xinjiawei1/emby_unlockd
+sleepgod/jellyfin
+nyanmissaka/jellyfin
