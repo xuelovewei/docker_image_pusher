@@ -9,5 +9,5 @@ iyuucn/iyuuplus-dev
 lovechen/embyserver
 emby/embyserver
 xinjiawei1/emby_unlockd
-nyanmissaka/jellyfin
-linuxserver/plex
+jellyfin/jellyfin
+nyanmisaka/jellyfin
