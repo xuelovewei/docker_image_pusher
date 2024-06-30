@@ -10,4 +10,4 @@ lovechen/embyserver
 emby/embyserver
 xinjiawei1/emby_unlockd
 nyanmissaka/jellyfin
-wernight/plex-media-server
+wernight/plex
