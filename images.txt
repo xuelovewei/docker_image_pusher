@@ -8,8 +8,6 @@ allanpk716/chinesesubfinder
 iyuucn/iyuuplus-dev
 lovechen/embyserver
 emby/embyserver
-amilys/embyserver
-zishuo/embyserver
 xinjiawei1/emby_unlockd
-sleepgod/jellyfin
 nyanmissaka/jellyfin
+wernight/plex-media-server
