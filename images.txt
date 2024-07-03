@@ -6,8 +6,5 @@ kasmweb/nginx:1.25.3
 linuxserver/jackett
 allanpk716/chinesesubfinder
 iyuucn/iyuuplus-dev
-lovechen/embyserver
 emby/embyserver
-xinjiawei1/emby_unlockd
 jellyfin/jellyfin
-nyanmisaka/jellyfin
