@@ -8,3 +8,4 @@ allanpk716/chinesesubfinder
 iyuucn/iyuuplus-dev
 lovechen/embyserver
 jellyfin/jellyfin
+wernight/plex-media-server
