@@ -7,5 +7,5 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 iyuucn/iyuuplus-dev
 lovechen/embyserver
-jellyfin/jellyfin
+nyanmisaka/jellyfin
 wernight/plex-media-server
