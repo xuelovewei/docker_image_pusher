@@ -6,6 +6,6 @@ kasmweb/nginx:1.25.3
 linuxserver/jackett
 allanpk716/chinesesubfinder
 iyuucn/iyuuplus-dev
-lovechen/embyserver
+amilys/embyserver
 nyanmisaka/jellyfin
 wernight/plex-media-server
