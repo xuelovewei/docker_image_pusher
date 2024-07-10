@@ -9,3 +9,5 @@ iyuucn/iyuuplus-dev
 amilys/embyserver
 nyanmisaka/jellyfin
 wernight/plex-media-server
+linuxserver/transmission:4.0.5
+linuxserver/qbittorrent
