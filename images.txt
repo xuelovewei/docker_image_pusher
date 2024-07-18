@@ -11,4 +11,4 @@ nyanmisaka/jellyfin
 wernight/plex-media-server
 linuxserver/qbittorrent
 haugene/transmission-openvpn
-linuxserver/transmission:4.0.5
+linuxserver/transmission
