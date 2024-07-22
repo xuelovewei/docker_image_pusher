@@ -12,3 +12,6 @@ linuxserver/qbittorrent
 haugene/transmission-openvpn
 linuxserver/transmission
 iyuucn/iyuuplus-dev
+jxxghp/moviepilot
+linuxserver/plex
+plexinc/pms-docker
