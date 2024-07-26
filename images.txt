@@ -5,7 +5,6 @@ kasmweb/nginx:1.25.3
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 linuxserver/jackett
 allanpk716/chinesesubfinder
-amilys/embyserver
 nyanmisaka/jellyfin
 wernight/plex-media-server
 linuxserver/qbittorrent
@@ -15,3 +14,4 @@ iyuucn/iyuuplus-dev
 jxxghp/moviepilot
 linuxserver/plex
 plexinc/pms-docker
+amilys/embyserver
