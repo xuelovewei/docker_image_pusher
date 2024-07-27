@@ -15,3 +15,4 @@ jxxghp/moviepilot
 linuxserver/plex
 plexinc/pms-docker
 amilys/embyserver
+gdy666/lucky
