@@ -9,7 +9,7 @@ nyanmisaka/jellyfin
 wernight/plex-media-server
 linuxserver/qbittorrent
 haugene/transmission-openvpn
-linuxserver/transmission
+linuxserver/transmission:4.0.5
 iyuucn/iyuuplus-dev
 jxxghp/moviepilot
 linuxserver/plex
