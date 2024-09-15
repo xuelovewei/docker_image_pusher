@@ -17,3 +17,4 @@ plexinc/pms-docker
 amilys/embyserver
 gdy666/lucky
 mzz2017/v2raya:2.2.5.7
+dramacro/clash
