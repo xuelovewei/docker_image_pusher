@@ -19,4 +19,4 @@ gdy666/lucky
 mzz2017/v2raya
 dreamacro/clash
 mzz2017/v2raya:2.2.5.5
-halo
+jxxghp/moviepilot-v2
